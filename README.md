@@ -23,8 +23,9 @@ Patterns that stay the same
 - beehive
 - loaf
 - boat
-- tub  
-![Still Lifes](data/still.png)
+- tub 
+
+<img src="data/still.png" alt="Still Lifes" width="300" />
 
 ## Oscillators
 Patterns that go back and forth between different states
@@ -33,6 +34,7 @@ Patterns that go back and forth between different states
 - toad
 - pulsar
 - penta-decathlon  
+
 ![Oscillators](data/oscillators.png)
 
 ## Spaceships
@@ -41,4 +43,5 @@ Patterns that travel across the board
 - LWSS (light-weight spaceship)
 - MWSS (middle-weight spaceship)
 - HWSS (heavy-weight spaceship)  
+
 ![Spaceships](data/spaceships.jpg)
