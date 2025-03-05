@@ -20,9 +20,10 @@ Type the command `python main.py pattern_name x y` in terminal.
 
 ## Examples
 `python main.py boat 5 5`  
-<img src="data/boat.png" alt="boat" width="200"/>
+<img src="data/boat.png" alt="boat" width="400"/>  
+
 `python main.py LWSS 10 10`  
-<img src="data/lwss.png" alt="light-weight spaceship" width="200"/>
+<img src="data/lwss.png" alt="light-weight spaceship" width="400"/>
 
 # Patterns
 Here are the pattern names along with their images.
