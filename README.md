@@ -25,7 +25,7 @@ Patterns that stay the same
 - boat
 - tub 
 
-<img src="data/still.png" alt="Still Lifes" width="100" />
+<img src="data/still.png" alt="Still Lifes" width="200" />
 
 ## Oscillators
 Patterns that go back and forth between different states
@@ -35,7 +35,7 @@ Patterns that go back and forth between different states
 - pulsar
 - penta-decathlon  
 
-![Oscillators](data/oscillators.png)
+<img src="data/oscillators.png" alt="Oscillators" width="250" />
 
 ## Spaceships
 Patterns that travel across the board
@@ -44,4 +44,4 @@ Patterns that travel across the board
 - MWSS (middle-weight spaceship)
 - HWSS (heavy-weight spaceship)  
 
-![Spaceships](data/spaceships.jpg)
+<img src="data/spaceships.png" alt="Spaceships" width="225" />
