@@ -44,4 +44,4 @@ Patterns that travel across the board
 - MWSS (middle-weight spaceship)
 - HWSS (heavy-weight spaceship)  
 
-<img src="data/spaceships.png" alt="Spaceships" width="225" />
+<img src="data/spaceships.png" alt="Spaceships" width="250" />
