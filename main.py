@@ -4,18 +4,18 @@ from colorama import init
 from game.ui import render
 import sys
 
-WIDTH = 40
-HEIGHT = 15
+WIDTH = 70
+HEIGHT = 50
 
 def main():
     init(autoreset=True)
-    soup = f"{sys.argv[1]}.txt"
+    pattern = f"{sys.argv[1]}.txt"
     if (sys.argv[1] == "random"):
         state1 = random_state(WIDTH, HEIGHT)
     else:
         x, y = int(sys.argv[2]), int(sys.argv[3])
         state1 = dead_state(WIDTH, HEIGHT)
-        state1 = add_state(x, y, soup, state1)
+        state1 = add_state(x, y, pattern, state1)
     while True:
         render(state1)
         state1 = next_board_state(state1)

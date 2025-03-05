@@ -19,7 +19,7 @@ def add_state(x1, y1, file, array):
     width = len(array[0])
     soup = load_file(file)
     x2 = x1 + len(soup[0])
-    y2 = y1 + len(soup[0])
+    y2 = y1 + len(soup)
     if y1 + len(soup) < height and x1 + len(soup[0]) < width:
         for i in range(y1, y2):
             for j in range(x1, x2):
