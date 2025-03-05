@@ -13,7 +13,16 @@ To create a random state of live and dead cells, type the command `python main.p
 
 To create a pattern, specify its pattern name and x, y coordinates (top left is (0, 0)).  
 Type the command `python main.py pattern_name x y` in terminal.  
-Note that pattern_name must be typed exactly as one of the pattern names shown in the list below.
+
+## Notes 
+- pattern_name must be typed exactly as one of the pattern names shown in the list below.
+- Top left of pattern is placed at coordinate (y, x) where y increases downwards and x increases rightwards.
+
+## Examples
+`python main.py boat 5 5`  
+<img src="data/boat.png" alt="boat" width="200"/>
+`python main.py LWSS 10 10`  
+<img src="data/lwss.png" alt="light-weight spaceship" width="200"/>
 
 # Patterns
 Here are the pattern names along with their images.

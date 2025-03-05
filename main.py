@@ -4,8 +4,8 @@ from colorama import init
 from game.ui import render
 import sys
 
-WIDTH = 70
-HEIGHT = 50
+WIDTH = 60
+HEIGHT = 40
 
 def main():
     init(autoreset=True)
