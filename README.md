@@ -25,7 +25,7 @@ Patterns that stay the same
 - boat
 - tub 
 
-<img src="data/still.png" alt="Still Lifes" width="300" />
+<img src="data/still.png" alt="Still Lifes" width="100" />
 
 ## Oscillators
 Patterns that go back and forth between different states
