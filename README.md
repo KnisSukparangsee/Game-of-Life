@@ -1,6 +1,6 @@
 # Game-of-Life
 # Description
-This program simulates Game Of Life in the terminal.  
+This program simulates Game Of Life in the terminal. Inspired by [Robert Heaton](https://robertheaton.com/2018/07/20/project-2-game-of-life/).
 According to [wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), the rules are as follows.
 1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 2. Any live cell with two or three live neighbours lives on to the next generation.
@@ -23,7 +23,7 @@ Patterns that stay the same
 - beehive
 - loaf
 - boat
-- tub
+- tub  
 ![Still Lifes](data/still.png)
 
 ## Oscillators
@@ -32,7 +32,7 @@ Patterns that go back and forth between different states
 - blinker
 - toad
 - pulsar
-- penta-decathlon
+- penta-decathlon  
 ![Oscillators](data/oscillators.png)
 
 ## Spaceships
@@ -40,5 +40,5 @@ Patterns that travel across the board
 - glider
 - LWSS (light-weight spaceship)
 - MWSS (middle-weight spaceship)
-- HWSS (heavy-weight spaceship)
+- HWSS (heavy-weight spaceship)  
 ![Spaceships](data/spaceships.jpg)
