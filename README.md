@@ -9,10 +9,11 @@ According to [wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life),
 Soups are 
 
 # Usage
-To create a random state of live and dead cells, type the command `python main.py random`
-To create a pattern, specify its pattern name and x, y coordinates (top left is (0, 0)).
-Type the command `python main.py pattern_name x y`.  
-Note that pattern_name must be typed exactly as one of the patterns shown in the list below.
+To create a random state of live and dead cells, type the command `python main.py random` in terminal.  
+
+To create a pattern, specify its pattern name and x, y coordinates (top left is (0, 0)).  
+Type the command `python main.py pattern_name x y` in terminal.  
+Note that pattern_name must be typed exactly as one of the pattern names shown in the list below.
 
 # Patterns
 Here are the pattern names along with their images.
@@ -23,7 +24,7 @@ Patterns that stay the same
 - loaf
 - boat
 - tub
-![Still Lifes](still.png)
+![Still Lifes](data/still.png)
 
 ## Oscillators
 Patterns that go back and forth between different states
@@ -32,7 +33,7 @@ Patterns that go back and forth between different states
 - toad
 - pulsar
 - penta-decathlon
-![Oscillators](oscillators.png)
+![Oscillators](data/oscillators.png)
 
 ## Spaceships
 Patterns that travel across the board
@@ -40,4 +41,4 @@ Patterns that travel across the board
 - LWSS (light-weight spaceship)
 - MWSS (middle-weight spaceship)
 - HWSS (heavy-weight spaceship)
-![Spaceships](spaceships.jpg)
+![Spaceships](data/spaceships.jpg)
